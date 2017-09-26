@@ -1,6 +1,6 @@
-I have realized this program to connect through sftp on centos 7
+I have realized this program to connect through sftp on centos 7.
 
-Any help is good, remember, i'm not a programmer only a noob with python passion
+Any help is good, remember, i'm not a programmer only a noob with python passion.
 
 1) Connecting to the server
 2) Folder change (where needed)
@@ -10,10 +10,10 @@ Any help is good, remember, i'm not a programmer only a noob with python passion
 
 
 # Sftp_connect
-Example how connect to sftp with pysftp library
+Example how connect to sftp with pysftp library.
 First of all you need to import pysftp library:
 
-On linux: sudo pip install pysftp
-On Windows: py [-python version] -m pip install
+On linux: sudo pip install pysftp.
+On Windows: py [-python version] -m pip install.
 
 
