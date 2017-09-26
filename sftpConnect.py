@@ -59,6 +59,6 @@ def compare_date(s, cnopts):
 while True:
     (s, cnopts) = connect_to_server()
     compare_date(s, cnopts)
-    time.sleep(seconds) #Controllo tempo ciclo definito dalla variabile seconds
+    time.sleep(seconds) #Control time loop definited from the variable seconds
 
 #------------Marcello Colangelo (2017) ------------------------------------
